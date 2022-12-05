@@ -28,6 +28,6 @@ for __, pair in enumerate(pairs):
     
 
 
-print(f"The pairs in which one set fully contained the other are {count_fully_contained}")
+print(f"The pairs with duplicates are {count_fully_contained}")
 
     
