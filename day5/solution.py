@@ -2,7 +2,7 @@
 My objective:
 Use/Explore:
     1. python built-functions (open, zip, enumerate)
-    2. list methods (extend, append)
+    2. list methods (extend, append, reverse)
     3. string methods (isalpha, isnumeric, readlines, join)
     4. dictionary methods (keys, values)
         dictionary comprehension
